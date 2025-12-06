@@ -166,4 +166,4 @@ This project is open source and available for educational purposes.
 
 ## Author
 
-Manikanta Venkateswarlu Oruganti
+Manikanta Oruganti
